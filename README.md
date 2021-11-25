@@ -22,7 +22,6 @@ There are many different classification models in machine learning:
 • Logistic Regression. 
 • K-Nearest Neighbor. 
 • Random Forest Classification. 
-• Neural Network.
 
 
 **Reason**: 
