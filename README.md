@@ -8,7 +8,7 @@ For this in our project, we will use machine learning to credit card fraud Detec
 
 **Dataset researched and located**:  
  In our project, we will use a simulated credit card transaction dataset containing legitimate and fraud transactions from the duration 1st Jan 2019 - 31st Dec 2020. It covers credit cards of 1000 customers doing transactions with a pool of 800 merchants.
-data sources: https://www.kaggle.com/kartik2112/fraud-detection
+data sources:https://www.kaggle.com/mlg-ulb/creditcardfraud
 
 **ML Use Case**:  
 In our project, we will use machine learning to credit card fraud Detection to reduce the loss of billions of dollars every year in credit card fraud.
